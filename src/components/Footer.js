@@ -12,20 +12,20 @@ const Footer = props => (
 
         <div className="row">
             <div className="offset-xl-5 offset-sm-4 col-xl-1 col-sm-2 text-center">
-                <a href="https://twitter.com/overnetcity" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/bgooonz" target="_blank" rel="noopener noreferrer">
                     <img
-                        src="https://avatars2.githubusercontent.com/u/807362?v=2&amp;s=400"
-                        alt="overnetcity"
+                        src="https://avatars.githubusercontent.com/u/66654881?v=4&amp;s=400"
+                        alt="bgoonz"
                         className="img-fluid rounded-circle mb-1"
                     />
-                    <span>@overnetcity</span>
+                    <span>@bgooonz</span>
                 </a>
             </div>
 
             <div className="col-xl-1 col-sm-2 text-center">
-                <a href="https://twitter.com/bgoonz" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/bg0oonz" target="_blank" rel="noopener noreferrer">
                     <img
-                        src="https://avatars3.githubusercontent.com/u/327237?v=2&amp;s=460"
+                        src="https://avatars.githubusercontent.com/u/66654881?v=4&amp;s=460"
                         alt="bgoonz"
                         className="img-fluid rounded-circle mb-1"
                     />
@@ -37,8 +37,8 @@ const Footer = props => (
         <div className={`row ${props.className}`}>
             <div className="col">
                 <p>
-                    and some{' '}
-                    <a href="https://github.com/bgoonz/semver-check/graphs/contributors">awesome contributors</a>.
+                    {/* and some{' '}
+                    <a href="https://github.com/bgoonz/semver-check/graphs/contributors">awesome contributors</a>. */}
                 </p>
             </div>
         </div>
