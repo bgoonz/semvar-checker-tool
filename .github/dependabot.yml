@@ -6,7 +6,7 @@ updates:
       schedule:
           interval: 'weekly'
       assignees:
-          - 'jubianchi'
+          - 'bgoonz'
       versioning-strategy: 'lockfile-only'
       pull-request-branch-name:
           separator: '-'

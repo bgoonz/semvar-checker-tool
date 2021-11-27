@@ -23,13 +23,13 @@ const Footer = props => (
             </div>
 
             <div className="col-xl-1 col-sm-2 text-center">
-                <a href="https://twitter.com/jubianchi" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/bgoonz" target="_blank" rel="noopener noreferrer">
                     <img
                         src="https://avatars3.githubusercontent.com/u/327237?v=2&amp;s=460"
-                        alt="jubianchi"
+                        alt="bgoonz"
                         className="img-fluid rounded-circle mb-1"
                     />
-                    <span>@jubianchi</span>
+                    <span>@bgoonz</span>
                 </a>
             </div>
         </div>
@@ -38,7 +38,7 @@ const Footer = props => (
             <div className="col">
                 <p>
                     and some{' '}
-                    <a href="https://github.com/jubianchi/semver-check/graphs/contributors">awesome contributors</a>.
+                    <a href="https://github.com/bgoonz/semver-check/graphs/contributors">awesome contributors</a>.
                 </p>
             </div>
         </div>

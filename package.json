@@ -6,7 +6,7 @@
   "homepage": ".",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jubianchi/semver-check"
+    "url": "https://github.com/bgoonz/semver-check"
   },
   "license": "MIT",
   "dependencies": {

@@ -1,11 +1,11 @@
 # Online SemVer Checker
 
-[![Build Status](https://travis-ci.org/jubianchi/semver-check.svg?branch=master)](https://travis-ci.org/jubianchi/semver-check)
+[![Build Status](https://travis-ci.org/bgoonz/semver-check.svg?branch=master)](https://travis-ci.org/bgoonz/semver-check)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 A basic web app coded with ReactJS to check a version against a SemVer constraint.
 
-Check it online here: [http://jubianchi.github.io/semver-check](http://jubianchi.github.io/semver-check)
+Check it online here: [http://bgoonz.github.io/semver-check](http://bgoonz.github.io/semver-check)
 
 ## SemVer checker... Why?
 
