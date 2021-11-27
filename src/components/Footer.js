@@ -22,16 +22,7 @@ const Footer = props => (
                 </a>
             </div>
 
-            <div className="col-xl-1 col-sm-2 text-center">
-                <a href="https://twitter.com/bg0oonz" target="_blank" rel="noopener noreferrer">
-                    <img
-                        src="https://avatars.githubusercontent.com/u/66654881?v=4&amp;s=460"
-                        alt="bgoonz"
-                        className="img-fluid rounded-circle mb-1"
-                    />
-                    <span>@bgoonz</span>
-                </a>
-            </div>
+      
         </div>
 
         <div className={`row ${props.className}`}>
